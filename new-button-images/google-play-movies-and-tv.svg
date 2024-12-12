@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 48 48" style="enable-background:new 0 0 48 48;" xml:space="preserve">
+<g id="bubble">
+</g>
+<g id="gradient">
+</g>
+<g id="doodle_1_">
+</g>
+<g id="fluent">
+	<path style="fill:#8C193F;" d="M10.185,3.56C9.516,3.18,8.983,3,8.209,3C6.884,3,6,3.875,6,5.406v37.188
+		C6,44.125,6.884,45,8.209,45c0.773,0,1.307-0.18,1.976-0.56l32.213-18.163C43.287,25.773,44,25.094,44,24s-0.713-1.775-1.603-2.279
+		L10.185,3.56z"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="26" y1="21.9649" x2="26" y2="5.0548">
+		<stop  offset="0" style="stop-color:#B31523"/>
+		<stop  offset="0.0215" style="stop-color:#B71734"/>
+		<stop  offset="0.0483" style="stop-color:#BA183F"/>
+		<stop  offset="0.086" style="stop-color:#BC1946"/>
+		<stop  offset="0.1908" style="stop-color:#BC1948"/>
+		<stop  offset="1" style="stop-color:#BC1948"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_1_);" points="12,8 40,8 40,22 12,21 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25.4664" y1="26.2973" x2="31.6294" y2="40.1886">
+		<stop  offset="0" style="stop-color:#E52030"/>
+		<stop  offset="0.42" style="stop-color:#D31C2B"/>
+		<stop  offset="1" style="stop-color:#B31523"/>
+	</linearGradient>
+	<polygon style="fill:url(#SVGID_2_);" points="40,27.629 40,21 12,21 12,34 28.701,34 	"/>
+	<path style="opacity:0.05;" d="M14,32v-4h5v4H14z M33,26v-4h5v4H33z M14,26v-4h5v4H14z M33,20v-4h5v4H33z M14,20v-4h5v4H14z M33,14
+		v-4h5v4H33z M14,14v-4h5v4H14z"/>
+	<path style="opacity:0.07;" d="M14.5,31.5v-3h4v3H14.5z M33.5,25.5v-3h4v3H33.5z M14.5,25.5v-3h4v3H14.5z M33.5,19.5v-3h4v3H33.5z
+		 M14.5,19.5v-3h4v3H14.5z M33.5,13.5v-3h4v3H33.5z M14.5,13.5v-3h4v3H14.5z"/>
+	<path style="fill:#FFFFFF;" d="M34,11h3v2h-3V11z M15,11h3v2h-3V11z M15,17h3v2h-3V17z M15,23h3v2h-3V23z M15,29h3v2h-3V29z M34,17
+		h3v2h-3V17z M34,23h3v2h-3V23z"/>
+</g>
+<g id="cloud">
+</g>
+<g id="cclip">
+</g>
+</svg>
