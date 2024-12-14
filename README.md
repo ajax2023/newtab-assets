@@ -10,8 +10,10 @@ This repository contains the static assets (images, icons, etc.) used in the New
 ## Usage
 
 These assets are automatically deployed to Cloudflare Pages and can be accessed via:
-`https://[your-project].pages.dev/new-button-images/[filename]`
-`https://[your-project].pages.dev/webp_images/[filename]`
+`https://newtab-assets.pages.dev/webp_images/[filename]`
+
+Example:
+`https://newtab-assets.pages.dev/webp_images/google.webp`
 
 ## Adding New Images
 
